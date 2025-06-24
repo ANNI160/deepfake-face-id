@@ -1,0 +1,10 @@
+tensorflow
+keras
+opencv-python
+face_recognition
+dlib
+web3
+streamlit
+numpy
+pandas
+matplotlib
